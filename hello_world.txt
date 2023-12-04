@@ -1,2 +1,4 @@
-Hello! My name is Le Dinh Vu Nguyen. This is the start of the development of my own website.
+Hello! My name is Le Dinh Vu Nguyen. 
+This is the start of the development of my personal website.
 I will complete this course by June 2024.
+Check back again later!
